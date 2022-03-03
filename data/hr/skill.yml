@@ -1,0 +1,26 @@
+################################# Skill ##################################
+skill:
+  enable : true
+  title : Vještine 
+  subtitle : Vješti smo s zajebancijom..volimo piti .
+  content : Lorem, ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis magni explicabo cum aperiam recusandae sunt accusamus totam. Quidem quos fugiat sapiente numquam accusamus quas hic, itaque in libero reiciendis tempora!
+  image : images/about/company-growth.webp
+  skill_item :
+    # skill item loop
+    - name :  Razvoj poslovanja
+      percent : 100%
+      
+    # skill item loop
+    - name :  Analiza
+      percent : 60%
+      
+    # skill item loop
+    - name :  Dizajn
+      percent : 50%
+      
+    - name :  Server tehnologije
+      percent : 95%
+      
+    # skill item loop
+    - name :  UX tehnologije
+      percent : 95%

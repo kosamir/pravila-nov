@@ -1,0 +1,31 @@
+############################## Contact #############################
+contact:
+  enable : true
+  title : Kontaktirajte nas 
+  subtitle : Detalji
+  content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero, provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores dolorem illo officiis ratione vel fugiat dicta laboriosam labore adipisci.
+
+  # Contact details
+  contact_list:
+    - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
+      info : "Savska cesta 32, 10 000 Zagreb, Croatia"
+      
+    - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
+      info : "Phone: +880-31-000-000"
+      
+    - icon : ti-printer # themify icon pack : https://themify.me/themify-icons
+      info : "Fax: +880-31-000-000"
+      
+    - icon : ti-email # themify icon pack : https://themify.me/themify-icons
+      info : "Email: info@pravila-nova.com"
+
+
+  # Contact form
+  contact_form:
+    enable : true
+    form_action : "https://formspree.io/f/mbjwykgp#" #contact form works with https://formspree.io
+    name : "Ime"
+    email : "E-mail"
+    subject : "Naslov"
+    message : "Poruka"
+    submit : "Pošalji"

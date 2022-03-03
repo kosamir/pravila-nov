@@ -1,0 +1,217 @@
+################################# Default configuration ###################
+baseURL = "https://demo.gethugothemes.com/meghna/examplesite/"
+title = "Pravila nova doo "
+theme = "meghna-hugo"
+# post pagination
+paginate = "6"
+# post excerpt
+summaryLength = "15"
+# disqus short name
+disqusShortname = "" # get your shortname form here : https://disqus.com
+# disable language
+disableLanguages = []
+
+############################# Plugins ##########################
+# css plugins
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+link = "plugins/themify-icons/themify-icons.css"
+[[params.plugins.css]]
+link = "plugins/magnific-popup/magnific-popup.css"
+[[params.plugins.css]]
+link = "plugins/slick/slick.css"
+[[params.plugins.css]]
+link = "https://fonts.googleapis.com/css?family=Anaheim|Quattrocento+Sans:400,700&display=swap"
+
+# js plugins
+[[params.plugins.js]]
+link = "plugins/jquery/jquery.min.js"
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+link = "plugins/slick/slick.min.js"
+[[params.plugins.js]]
+link = "plugins/shuffle/shuffle.min.js"
+[[params.plugins.js]]
+link = "plugins/magnific-popup/jquery.magnific-popup.min.js"
+[[params.plugins.js]]
+link = "plugins/lazy-load/lozad.min.js"
+[[params.plugins.js]]
+link = "plugins/google-map/map.js"
+
+################### English Navigation ########################
+[[Languages.en.menu.main]]
+name = "About"
+url = "#about"
+weight = 1
+
+[[Languages.en.menu.main]]
+name = "Services"
+url = "#services"
+weight = 2
+
+#[[Languages.en.menu.main]]
+#name = "portfolio"
+#url = "#portfolio"
+#weight = 3
+
+[[Languages.en.menu.main]]
+name = "Team"
+url = "#team"
+weight = 4
+
+#[[Languages.en.menu.main]]
+#name = "pricing"
+#url = "#pricing"
+#weight = 5
+
+[[Languages.en.menu.main]]
+name = "Blog"
+url = "#blog"
+weight = 6
+
+[[Languages.en.menu.main]]
+name = "contact"
+url = "#contact"
+weight = 7
+
+
+#[[Languages.en.menu.main]]
+#name = "Dropdown"
+#weight = 7
+#hasChildren = true
+
+#[[Languages.en.menu.main]]
+#parent = "Dropdown"
+#name = "Dropdown 1"
+#url = "#"
+#weight = 1
+
+#[[Languages.en.menu.main]]
+#parent = "Dropdown"
+#name = "Dropdown 2"
+#url = "#"
+#weight = 2
+
+#[[Languages.en.menu.main]]
+#name = "mali slon"
+#url = "https://themefisher.com/"
+#weight = 8
+
+
+################### Cro Navigation ########################
+[[Languages.hr.menu.main]]
+name = "O nama"
+url = "#about"
+weight = 1
+
+[[Languages.hr.menu.main]]
+name = "Usluge"
+url = "#services"
+weight = 2
+
+#[[Languages.hr.menu.main]]
+#name = "portefeuille"
+#url = "#portfolio"
+#weight = 3
+
+[[Languages.hr.menu.main]]
+name = "Ekipa"
+url = "#team"
+weight = 4
+
+#[[Languages.hr.menu.main]]
+#name = "tarification"
+#url = "#pricing"
+#weight = 5
+
+[[Languages.hr.menu.main]]
+name = "Blog"
+url = "#blog"
+weight = 6
+
+[[Languages.hr.menu.main]]
+name = "Kontakt"
+url = "#contact"
+weight = 7
+
+#[[Languages.hr.menu.main]]
+#name = "veliki slon"
+#url = "https://themefisher.com/"
+#weight = 8
+
+############################# Default Parameters ##########################
+[params]
+enableEmoji = true
+logo = "images/logo.png"
+# Meta data
+description = "Responsive Multipurpose Parallax Hugo Template"
+author = "Themefisher"
+# Google Analytics
+google_analytics_id = "" # Your ID
+# post share
+post_share = true
+
+# preloader
+[params.preloader]
+enable = false
+preloader = "images/logo.png"
+
+# cookies
+[params.cookies]
+enable = false
+expire_days = 2
+
+# google map
+[params.map]
+enable = true
+#gmap_api = "https://www.google.com/maps/embed/v1/place?key=AIzaSyDFu2tnzgu9SePbvSh2Yzg7oELdqB9twzA&q=Eiffel+Tower,Paris+France"
+gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyDFu2tnzgu9SePbvSh2Yzg7oELdqB9twzA"
+map_latitude = "45.80158"
+map_longitude = "15.96333"
+map_marker = "images/marker.png"
+
+############################# social icons ##########################
+[[params.social]]
+icon = "ti-facebook" # themify icon pack : https://themify.me/themify-icons
+link = "#"
+
+[[params.social]]
+icon = "ti-twitter-alt" # themify icon pack : https://themify.me/themify-icons
+link = "#"
+
+[[params.social]]
+icon = "ti-youtube" # themify icon pack : https://themify.me/themify-icons
+link = "#"
+
+[[params.social]]
+icon = "ti-linkedin" # themify icon pack : https://themify.me/themify-icons
+link = "#"
+
+[[params.social]]
+icon = "ti-dribbble" # themify icon pack : https://themify.me/themify-icons
+link = "#"
+
+[[params.social]]
+icon = "ti-pinterest" # themify icon pack : https://themify.me/themify-icons
+link = "#"
+
+
+################################ English Language ########################
+[Languages.en]
+languageName = "En"
+languageCode = "en-us"
+contentDir = "content/english"
+weight = 1
+home = "Home"
+copyright = "Copyright &copy; 2022  - Pravila-nova d.o.o"
+
+################################ France Language ########################
+[Languages.hr]
+languageName = "Hr"
+languageCode = "hr-hr"
+contentDir = "content/hr"
+weight = 2
+home = "Home"
+copyright = " &copy; 2022 - Pravila-nova d.o.o"
