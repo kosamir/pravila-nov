@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://demo.gethugothemes.com/meghna/examplesite/"
+baseURL = "https://fervent-cray-38fb8b.netlify.app"
 title = "Pravila nova doo "
 theme = "meghna-hugo"
 # post pagination
