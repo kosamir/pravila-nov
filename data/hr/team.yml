@@ -68,7 +68,7 @@ team:
           link : "#"
     
      # team member loop
-    - name : Krunoslav Rickovic
+    - name : Kruno Rickovic
       image_webp : images/team/rickovic2.jpg
       image : images/team/rickovic2.jpg
       designation : Director / User abuser
