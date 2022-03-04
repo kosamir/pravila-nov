@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 baseURL = "https://fervent-cray-38fb8b.netlify.app"
-title = "Pravila nova doo "
+title = "Pravila nova d.o.o "
 theme = "meghna-hugo"
 # post pagination
 paginate = "6"
@@ -146,8 +146,8 @@ weight = 7
 enableEmoji = true
 logo = "images/logo.png"
 # Meta data
-description = "Responsive Multipurpose Parallax Hugo Template"
-author = "Themefisher"
+description = "PRAVILA NOVA društvo s ograničenom odgovornošću za usluge informatičke djelatnosti i savjetovanje"
+author = "Pravila nova d.o.o"
 # Google Analytics
 google_analytics_id = "" # Your ID
 # post share
