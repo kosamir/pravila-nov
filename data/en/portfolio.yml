@@ -4,7 +4,7 @@ portfolio:
   title : Our Works
   portfolio_item :
     # portfolio item loop
-    - name : Tag Design
+    - name : Item one
       image : images/portfolio/portfolio-1.jpg
       image_webp : images/portfolio/portfolio-1.webp
       categories : ["design"]
@@ -12,7 +12,7 @@ portfolio:
       link : "#"
       
     # portfolio item loop
-    - name : Sound system
+    - name : Item two
       image : images/portfolio/portfolio-2.jpg
       image_webp : images/portfolio/portfolio-2.webp
       categories : ["development"]
@@ -20,23 +20,23 @@ portfolio:
       link : "#"
       
     # portfolio item loop
-    - name : Clock Product
+    - name : Item three
       image : images/portfolio/portfolio-3.jpg
       image_webp : images/portfolio/portfolio-3.webp
-      categories : ["design", "development"]
+      categories : [ "development"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "#"
       
     # portfolio item loop
-    - name : Bottol Label
+    - name : Item four
       image : images/portfolio/portfolio-4.jpg
       image_webp : images/portfolio/portfolio-4.webp
-      categories : ["photography", "development"]
+      categories : [ "development"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "#"
       
     # portfolio item loop
-    - name : Shopping Bag
+    - name : Item five
       image : images/portfolio/portfolio-5.jpg
       image_webp : images/portfolio/portfolio-5.webp
       categories : ["design"]
@@ -44,15 +44,15 @@ portfolio:
       link : "#"
       
     # portfolio item loop
-    - name : Tag Design
+    - name : Item six
       image : images/portfolio/portfolio-6.jpg
       image_webp : images/portfolio/portfolio-6.webp
-      categories : ["photography"]
+      categories : ["development"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "#"
       
     # portfolio item loop
-    - name : Business Card
+    - name : Item seven
       image : images/portfolio/portfolio-7.jpg
       image_webp : images/portfolio/portfolio-7.webp
       categories : ["development"]
@@ -60,7 +60,7 @@ portfolio:
       link : "#"
       
     # portfolio item loop
-    - name : Stationary Design
+    - name : Item eight
       image : images/portfolio/portfolio-8.jpg
       image_webp : images/portfolio/portfolio-8.webp
       categories : ["design", "development"]
@@ -68,9 +68,9 @@ portfolio:
       link : "#"
       
     # portfolio item loop
-    - name : Tag Design
+    - name : Item nine
       image : images/portfolio/portfolio-2.jpg
       image_webp : images/portfolio/portfolio-2.webp
-      categories : ["design", "photography"]
+      categories : ["design", "development"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "#"

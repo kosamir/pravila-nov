@@ -1,12 +1,12 @@
 ############################### team ############################
 team:
   enable : true
-  title : Our Team
+  title : Tim 
   team_member :
     # team member loop
-    - name : Abul Mal Muhit
-      image_webp : images/team/team-1.webp
-      image : images/team/team-1.jpg
+    - name : dr.sc Zlatan Mur 
+      image_webp : images/team/mur.jpg 
+      image : images/team/mur.jpg 
       designation : CEO/Founder
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
       social :
@@ -20,10 +20,10 @@ team:
           link : "#"
         
     # team member loop
-    - name : Frank Miller
-      image_webp : images/team/team-2.webp
-      image : images/team/team-2.jpg
-      designation : Manager
+    - name : Damir Horvat 
+      image_webp : images/team/horvat.jpg 
+      image : images/team/horvat.jpg 
+      designation : Projekt manager/ Prokurist
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
       social :
         - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
@@ -36,10 +36,10 @@ team:
           link : "#"
         
     # team member loop
-    - name : Michael Jonson
-      image_webp : images/team/team-3.webp
-      image : images/team/team-3.jpg
-      designation : Web Developer
+    - name :  Stjepan Cvitanovic
+      image_webp : images/team/scteph.jpg
+      image : images/team/scteph.jpg
+      designation : Director/ Full-stack developer
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
       social :
         - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
@@ -52,10 +52,58 @@ team:
           link : "#"
         
     # team member loop
-    - name : Mo. Kha. Alamgir
-      image_webp : images/team/team-4.webp
-      image : images/team/team-4.jpg
-      designation : SEO Specialist
+    - name : Ivan Nakic
+      image_webp : images/team/nakich.jpg
+      image : images/team/nakich.jpg
+      designation : Direktor / Front end developer
+      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+      social :
+        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+    
+     # team member loop
+    - name : Krunoslav Rickovic
+      image_webp : images/team/rickovic2.jpg
+      image : images/team/rickovic2.jpg
+      designation : Director / User abuser
+      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+      social :
+        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+    
+     # team member loop
+    - name : Amir Kos
+      image_webp : images/team/amirkos.jpg
+      image : images/team/amirkos.jpg
+      designation : Full-stack developer
+      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+      social :
+        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+
+     # team member loop
+    - name : Sanja Caus 
+      image_webp : images/team/caus.jpg
+      image : images/team/caus.jpg
+      designation : HR
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
       social :
         - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons

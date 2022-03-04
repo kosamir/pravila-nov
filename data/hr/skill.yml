@@ -18,9 +18,9 @@ skill:
     - name :  Dizajn
       percent : 50%
       
-    - name :  Server tehnologije
+    - name :  J2EE tehnologije
       percent : 95%
       
     # skill item loop
-    - name :  UX tehnologije
+    - name :  UX dizajn
       percent : 95%

@@ -15,7 +15,7 @@ service:
       
     
     # service item loop
-    - name : Enterprise develoment
+    - name : Enterprise riješenja
       icon : ti-package # themify icon pack : https://themify.me/themify-icons
       content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
       

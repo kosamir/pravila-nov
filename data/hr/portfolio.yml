@@ -1,42 +1,42 @@
 #################################### portfolio ###############################
 portfolio:
   enable : true
-  title : Our Works
+  title : Naši radovi 
   portfolio_item :
     # portfolio item loop
-    - name : Tag Design
+    - name : Nešto
       image : images/portfolio/portfolio-1.jpg
       image_webp : images/portfolio/portfolio-1.webp
       categories : ["design"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "https://themefisher.com"
+      link : "#"
       
     # portfolio item loop
-    - name : Sound system
+    - name : nešto drugo
       image : images/portfolio/portfolio-2.jpg
       image_webp : images/portfolio/portfolio-2.webp
       categories : ["development"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : ""
+      link : "#"
       
     # portfolio item loop
-    - name : Clock Product
+    - name : nešto treće
       image : images/portfolio/portfolio-3.jpg
       image_webp : images/portfolio/portfolio-3.webp
-      categories : ["design", "development"]
+      categories : [ "development"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "#"
       
     # portfolio item loop
-    - name : Bottol Label
+    - name : nešto četvrto
       image : images/portfolio/portfolio-4.jpg
       image_webp : images/portfolio/portfolio-4.webp
-      categories : ["photography", "development"]
+      categories : [ "development"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "#"
       
     # portfolio item loop
-    - name : Shopping Bag
+    - name : nešto peto
       image : images/portfolio/portfolio-5.jpg
       image_webp : images/portfolio/portfolio-5.webp
       categories : ["design"]
@@ -44,15 +44,15 @@ portfolio:
       link : "#"
       
     # portfolio item loop
-    - name : Tag Design
+    - name : nešto šesto
       image : images/portfolio/portfolio-6.jpg
       image_webp : images/portfolio/portfolio-6.webp
-      categories : ["photography"]
+      categories : ["development"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "#"
       
     # portfolio item loop
-    - name : Business Card
+    - name : nešto sedmo
       image : images/portfolio/portfolio-7.jpg
       image_webp : images/portfolio/portfolio-7.webp
       categories : ["development"]
@@ -60,7 +60,7 @@ portfolio:
       link : "#"
       
     # portfolio item loop
-    - name : Stationary Design
+    - name : nešto osmo
       image : images/portfolio/portfolio-8.jpg
       image_webp : images/portfolio/portfolio-8.webp
       categories : ["design", "development"]
@@ -68,9 +68,9 @@ portfolio:
       link : "#"
       
     # portfolio item loop
-    - name : Tag Design
+    - name : nešto deveto
       image : images/portfolio/portfolio-2.jpg
       image_webp : images/portfolio/portfolio-2.webp
-      categories : ["design", "photography"]
+      categories : ["design", "development"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "#"
